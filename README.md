@@ -7,5 +7,6 @@ One can start by going to http://127.0.0.1:5500/index.html that will take them t
 ![](https://github.com/landeros91/UFOs/blob/main/main.png)
 
 Some modifications have been made were we can now filter by the following.
-
+1[](https://github.com/landeros91/UFOs/blob/main/Filter.png)
+In the first image, we can reflect the data that is broken down by the filters.
 ## Summary
