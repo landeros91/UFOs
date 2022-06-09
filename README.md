@@ -6,5 +6,6 @@ The focus of this project is to create a table to organize UFO data that is stor
 One can start by going to http://127.0.0.1:5500/index.html that will take them to the UFO Sightings site. From there one can speculate if we are alone!
 ![](https://github.com/landeros91/UFOs/blob/main/main.png)
 
+Some modifications have been made were we can now filter by the following.
 
 ## Summary
