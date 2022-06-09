@@ -14,5 +14,7 @@ Some modifications have been made were we can now filter by the following. In th
 
 ### Drawbacks
 - One of the drawbacks is that the filtering feature is not as advanced and will not auto populate results or auto fill date. In order to get the correct output, when filtering it must be done according to how the data is structured. Fro example; when typing the date, it must be put in the following format (1/12/2010), not (31/01/2010).
+
+### Recommendations
 - One recommendation would be to add a drop down with a calendar to simply click the day.
 - Second, adding recommended shapes would help the viewer out make out what one has seen or the curiousity of what others have seen.
